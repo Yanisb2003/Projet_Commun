@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 bonjour git
 bonjour linux
 2 eme message -> Git
+
+aaa
